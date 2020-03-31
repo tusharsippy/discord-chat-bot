@@ -58,7 +58,7 @@ Blue chatbot is a discord chatbot which can do the following things:
 
   ## Screenshots
 
-![image](http://tusharsharma.in/images/chat-bot-help.png)
+![image](http://tusharsharma.in/images/chat-bot-help.png){ width=50% }
 ![image](http://tusharsharma.in/images/chat-bot-google-search.png)
 ![image](http://tusharsharma.in/images/chat-bot-recent-searches.png)
 ![image](http://tusharsharma.in/images/chat-bot-all-recent-searches.png)
